@@ -1,0 +1,87 @@
+"Date","Customer_Age","Age_Group","Customer_Gender","Country","State","Product_Description","Variant","Color","Frame_Size","Order_Quantity","Unit_Cost","Unit_Price","Profit","Cost","Revenue"
+2021-12-01,39,"Adults (35-64)","F","United States","California","Mountain-200 Black, 46","Mountain-200","Black","46",4,1252,2295,4172,5008,9180
+2021-12-01,44,"Adults (35-64)","M","United Kingdom","England","Mountain-200 Silver, 42","Mountain-200","Silver","42",1,1266,2320,1054,1266,2320
+2021-12-02,37,"Adults (35-64)","M","United States","California","Mountain-400-W Silver, 46","Mountain-400-W","Silver","46",2,420,769,698,840,1538
+2021-12-02,31,"Young Adults (25-34)","F","Australia","New South Wales","Mountain-400-W Silver, 42","Mountain-400-W","Silver","42",1,420,769,349,420,769
+2021-12-03,37,"Adults (35-64)","F","United States","California","Mountain-200 Black, 46","Mountain-200","Black","46",2,0,2295,2086,0,4590
+2021-12-03,24,"Youth (<25)","F","United Kingdom","England","Mountain-200 Black, 38","Mountain-200","Black","38",1,1252,2295,1043,1252,2295
+2021-12-03,37,"Adults (35-64)","M","United States","Washington","Mountain-200 Black, 46","Mountain-200","Black","46",1,1252,2295,1043,1252,2295
+2021-12-03,37,"Adults (35-64)","M","United States","Washington","Mountain-200 Black, 46","Mountain-200","Black","46",1,1252,2295,1043,1252,2295
+2021-12-04,31,"Young Adults (25-34)","F","Australia","New South Wales","Mountain-400-W Silver, 42","Mountain-400-W","Silver","42",4,420,0,1396,1680,0
+2021-12-05,39,"Adults (35-64)","F","United States","California","Mountain-200 Black, 46","Mountain-200","Black","46",4,1252,2295,4172,5008,9180
+2021-12-05,42,"Adults (35-64)","M","Germany","Nordrhein-Westfalen","Mountain-200 Black, 38","Mountain-200","Black","38",4,1252,2295,4172,5008,9180
+2021-12-05,35,"Adults (35-64)","F","Australia","Queensland","Mountain-200 Silver, 38","Mountain-200","Silver","38",1,1266,2320,1054,1266,2320
+2021-12-05,37,"Adults (35-64)","F","United States","California","Mountain-200 Black, 46","Mountain-200","Black","46",1,1252,2295,1043,1252,2295
+2021-12-06,23,"Youth (<25)","M","United Kingdom","England","Mountain-400-W Silver, 46","Mountain-400-W","Silver","46",3,420,769,1047,1260,2307
+2021-12-06,27,"Young Adults (25-34)","M","Canada","British Columbia","Mountain-200 Black, 46","Mountain-200","Black","46",1,1252,2295,1043,1252,2295
+2021-12-06,47,"Adults (35-64)","M","United Kingdom","England","Mountain-200 Silver, 38","Mountain-200","Silver","38",1,1266,2320,1054,1266,2320
+2021-12-07,30,"Young Adults (25-34)","M","United States","California","Mountain-400-W Silver, 38","Mountain-400-W","Silver","38",4,420,769,1396,1680,3076
+2021-12-07,38,"Adults (35-64)","M","United States","California","Mountain-200 Silver, 42","Mountain-200","Silver","42",2,1266,2320,2108,2532,4640
+2021-12-08,19,"Youth (<25)","F","Australia","New South Wales","Mountain-500 Silver, 42","Mountain-500","Silver","42",4,308,565,1028,1232,2260
+2021-12-08,30,"Young Adults (25-34)","F","Canada","British Columbia","Mountain-200 Silver, 38","Mountain-200","Silver","38",4,1266,2320,4216,5064,9280
+2021-12-09,33,"Young Adults (25-34)","F","Australia","Victoria","Mountain-100 Black, 38","Mountain-100","Black","38",2,1898,3375,2954,3796,6750
+2021-12-09,41,"Adults (35-64)","F","Germany","Hamburg","Mountain-200 Silver, 42","Mountain-200","Silver","42",1,1266,2320,1054,1266,2320
+2021-12-10,34,"Young Adults (25-34)","F","United States","California","Mountain-200 Black, 42","Mountain-200","Black","42",2,1252,2295,2086,2504,4590
+2021-12-10,40,"Adults (35-64)","M","Australia","New South Wales","Mountain-200 Black, 42","Mountain-200","Black","42",2,1252,2295,2086,2504,4590
+2021-12-10,26,"Young Adults (25-34)","M","United Kingdom","England","Mountain-200 Black, 38","Mountain-200","Black","38",1,1252,2295,1043,1252,2295
+2021-12-10,34,"Young Adults (25-34)","M","United States","California","Mountain-500 Black, 40","Mountain-500","Black","40",1,295,540,245,295,540
+2021-12-10,34,"Young Adults (25-34)","F","United States","Washington","Mountain-100 Silver, 44","Mountain-100","Silver","44",1,1912,3400,1488,1912,3400
+2021-12-10,38,"Adults (35-64)","M","Australia","New South Wales","Mountain-200 Black, 38","Mountain-200","Black","38",1,1252,2295,1043,1252,2295
+2021-12-11,24,"Youth (<25)","F","France","Seine (Paris)","Mountain-200 Black, 38","Mountain-200","Black","38",3,1252,2295,3129,3756,6885
+2021-12-11,41,"Adults (35-64)","F","Australia","New South Wales","Mountain-400-W Silver, 38","Mountain-400-W","Silver","38",2,420,769,698,840,1538
+2021-12-11,27,"Young Adults (25-34)","M","Canada","British Columbia","Mountain-200 Black, 46","Mountain-200","Black","46",1,1252,2295,1043,1252,2295
+2021-12-11,37,"Adults (35-64)","M","United States","California","Mountain-400-W Silver, 46","Mountain-400-W","Silver","46",1,420,769,349,420,769
+2021-12-11,38,"Adults (35-64)","F","United States","California","Mountain-200 Silver, 38","Mountain-200","Silver","38",1,1266,2320,1054,1266,2320
+2021-12-12,36,"Adults (35-64)","F","Australia","New South Wales","Mountain-200 Silver, 42","Mountain-200","Silver","42",4,1266,2320,4216,5064,9280
+2021-12-12,37,"Adults (35-64)","M","United States","California","Mountain-400-W Silver, 46","Mountain-400-W","Silver","46",4,420,769,1396,1680,3076
+2021-12-12,34,"Young Adults (25-34)","M","Australia","New South Wales","Mountain-200 Black, 38","Mountain-200","Black","38",2,1252,2295,2086,2504,4590
+2021-12-12,35,"Adults (35-64)","F","Australia","Victoria","Mountain-200 Silver, 42","Mountain-200","Silver","42",1,1266,2320,1054,1266,2320
+2021-12-12,38,"Adults (35-64)","F","United States","Washington","Mountain-200 Silver, 42","Mountain-200","Silver","42",1,1266,2320,1054,1266,2320
+2021-12-13,32,"Young Adults (25-34)","F","Australia","Queensland","Mountain-200 Silver, 42","Mountain-200","Silver","42",3,1266,2320,3162,3798,6960
+2021-12-13,40,"Adults (35-64)","F","United States","California","Mountain-500 Silver, 40","Mountain-500","Silver","40",1,308,565,257,308,565
+2021-12-13,44,"Adults (35-64)","F","United Kingdom","England","Mountain-200 Black, 38","Mountain-200","Black","38",1,1252,2295,1043,1252,2295
+2021-12-13,49,"Adults (35-64)","M","United Kingdom","England","Mountain-200 Black, 38","Mountain-200","Black","38",1,1252,2295,1043,1252,2295
+2021-12-14,30,"Young Adults (25-34)","F","United States","Washington","Mountain-200 Silver, 38","Mountain-200","Silver","38",2,1266,2320,2108,2532,4640
+2021-12-14,32,"Young Adults (25-34)","M","United States","California","Mountain-200 Black, 46","Mountain-200","Black","46",1,1252,2295,1043,1252,2295
+2021-12-14,32,"Young Adults (25-34)","F","Australia","Victoria","Mountain-400-W Silver, 46","Mountain-400-W","Silver","46",1,420,769,349,420,769
+2021-12-15,29,"Young Adults (25-34)","F","United States","California","Mountain-200 Silver, 42","Mountain-200","Silver","42",1,1266,2320,1054,1266,2320
+2021-12-16,33,"Young Adults (25-34)","F","Australia","New South Wales","Mountain-200 Black, 38","Mountain-200","Black","38",2,1252,2295,2086,2504,4590
+2021-12-16,38,"Adults (35-64)","M","Australia","New South Wales","Mountain-200 Black, 38","Mountain-200","Black","38",2,1252,2295,2086,2504,4590
+2021-12-16,27,"Young Adults (25-34)","F","France","Seine et Marne","Mountain-200 Silver, 46","Mountain-200","Silver","46",1,1266,2320,1054,1266,2320
+2021-12-17,37,"Adults (35-64)","F","United States","Washington","Mountain-200 Silver, 38","Mountain-200","Silver","38",2,1266,2320,2108,2532,4640
+2021-12-17,31,"Young Adults (25-34)","M","Australia","New South Wales","Mountain-400-W Silver, 42","Mountain-400-W","Silver","42",1,420,769,349,420,769
+2021-12-17,42,"Adults (35-64)","F","Germany","Nordrhein-Westfalen","Mountain-200 Silver, 46","Mountain-200","Silver","46",1,1266,2320,1054,1266,2320
+2021-12-18,35,"Adults (35-64)","F","Australia","New South Wales","Mountain-500 Silver, 42","Mountain-500","Silver","42",4,308,565,1028,1232,2260
+2021-12-18,38,"Adults (35-64)","F","Germany","Nordrhein-Westfalen","Mountain-200 Silver, 46","Mountain-200","Silver","46",4,1266,2320,4216,5064,9280
+2021-12-18,24,"Youth (<25)","F","France","Seine Saint Denis","Mountain-200 Silver, 38","Mountain-200","Silver","38",3,1266,2320,3162,3798,6960
+2021-12-18,26,"Young Adults (25-34)","F","United Kingdom","England","Mountain-400-W Silver, 42","Mountain-400-W","Silver","42",3,420,769,1047,1260,2307
+2021-12-18,39,"Adults (35-64)","M","United States","California","Mountain-200 Black, 42","Mountain-200","Black","42",3,1252,2295,3129,3756,6885
+2021-12-18,26,"Young Adults (25-34)","M","France","Seine (Paris)","Mountain-200 Black, 46","Mountain-200","Black","46",1,1252,2295,1043,1252,2295
+2021-12-18,36,"Adults (35-64)","M","United States","Washington","Mountain-200 Silver, 38","Mountain-200","Silver","38",1,1266,2320,1054,1266,2320
+2021-12-19,17,"Youth (<25)","M","France","Nord","Mountain-200 Silver, 46","Mountain-200","Silver","46",4,1266,2320,4216,5064,9280
+2021-12-19,19,"Youth (<25)","F","Australia","Victoria","Mountain-500 Black, 44","Mountain-500","Black","44",4,295,540,980,1180,2160
+2021-12-19,25,"Young Adults (25-34)","M","France","Seine (Paris)","Mountain-200 Black, 38","Mountain-200","Black","38",4,1252,2295,4172,5008,9180
+2021-12-19,35,"Adults (35-64)","F","United States","Oregon","Mountain-100 Black, 48","Mountain-100","Black","48",4,1898,3375,5908,7592,13500
+2021-12-19,37,"Adults (35-64)","M","United States","Oregon","Mountain-200 Black, 38","Mountain-200","Black","38",4,1252,2295,4172,5008,9180
+2021-12-19,39,"Adults (35-64)","F","United States","California","Mountain-200 Black, 46","Mountain-200","Black","46",4,1252,2295,4172,5008,9180
+2021-12-19,63,"Adults (35-64)","F","Australia","Queensland","Mountain-200 Black, 46","Mountain-200","Black","46",4,1252,2295,4172,5008,9180
+2021-12-19,18,"Youth (<25)","M","Australia","South Australia","Mountain-500 Black, 40","Mountain-500","Black","40",2,295,540,490,590,1080
+2021-12-19,56,"Adults (35-64)","F","Germany","Hessen","Mountain-200 Black, 46","Mountain-200","Black","46",2,1252,2295,2086,2504,4590
+2021-12-19,39,"Adults (35-64)","F","United States","Washington","Mountain-200 Silver, 38","Mountain-200","Silver","38",1,1266,2320,1054,1266,2320
+2021-12-20,33,"Young Adults (25-34)","F","Australia","Victoria","Mountain-100 Black, 38","Mountain-100","Black","38",4,1898,3375,5908,7592,13500
+2021-12-20,57,"Adults (35-64)","M","Australia","Queensland","Mountain-200 Black, 46","Mountain-200","Black","46",4,1252,2295,4172,5008,9180
+2021-12-20,29,"Young Adults (25-34)","M","Canada","British Columbia","Mountain-500 Black, 52","Mountain-500","Black","52",3,295,540,735,885,1620
+2021-12-20,35,"Adults (35-64)","F","Australia","Queensland","Mountain-200 Silver, 38","Mountain-200","Silver","38",1,1266,2320,1054,1266,2320
+2021-12-20,35,"Adults (35-64)","M","Australia","Victoria","Mountain-200 Silver, 38","Mountain-200","Silver","38",1,1266,2320,1054,1266,2320
+2021-12-21,26,"Young Adults (25-34)","M","France","Somme","Mountain-200 Silver, 38","Mountain-200","Silver","38",3,1266,2320,3162,3798,6960
+2021-12-21,23,"Youth (<25)","M","United Kingdom","England","Mountain-400-W Silver, 46","Mountain-400-W","Silver","46",2,420,769,698,840,1538
+2021-12-22,30,"Young Adults (25-34)","F","United States","Washington","Mountain-200 Silver, 38","Mountain-200","Silver","38",3,1266,2320,3162,3798,6960
+2021-12-22,41,"Adults (35-64)","M","United States","California","Mountain-200 Black, 42","Mountain-200","Black","42",3,1252,2295,3129,3756,6885
+2021-12-22,19,"Youth (<25)","F","Australia","New South Wales","Mountain-500 Silver, 42","Mountain-500","Silver","42",1,308,565,257,308,565
+2021-12-22,25,"Young Adults (25-34)","M","France","Seine (Paris)","Mountain-200 Black, 38","Mountain-200","Black","38",1,1252,2295,1043,1252,2295
+2021-12-22,27,"Young Adults (25-34)","F","Canada","British Columbia","Mountain-200 Black, 46","Mountain-200","Black","46",1,1252,2295,1043,1252,2295
+2021-12-22,41,"Adults (35-64)","M","Germany","Hessen","Mountain-200 Silver, 38","Mountain-200","Silver","38",1,1266,2320,1054,1266,2320
+2021-12-23,30,"Young Adults (25-34)","F","United States","Oregon","Mountain-200 Silver, 42","Mountain-200","Silver","42",1,1266,2320,1054,1266,2320
+2021-12-23,31,"Young Adults (25-34)","F","Canada","British Columbia","Mountain-200 Black, 42","Mountain-200","Black","42",1,1252,2295,1043,1252,2295
+2021-12-23,35,"Adults (35-64)","F","United States","California","Mountain-500 Black, 42","Mountain-500","Black","42",1,295,540,245,295,540
+2021-12-24,38,"Adults (35-64)","M","Australia","Queensland","Mountain-200 Black, 42","Mountain-200","Black","42",4,1252,2295,4172,5008,9180
